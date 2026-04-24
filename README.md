@@ -13,7 +13,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2600&pause=1100&color=9D4EDD&center=true&vCenter=true&width=650&lines=🎓+BS+Computer+Engineering+%40+UET+Lahore;🤖+Aspiring+AI+Engineer+%26+Prompt+Engineering+Learner;🐍+Python+%7C+☕+Java+%7C+⚡+C%2B%2B+%7C+🧩+Snap%21;💬+Soft+Skills+Advocate+%26+Passionate+Learner;🌟+Open+to+Internships+%26+Opportunities;🚀+Building+My+Path+in+the+AI+World" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=19&duration=2600&pause=1100&color=9D4EDD&center=true&vCenter=true&width=650&lines=BS+Computer+Engineering+%40+UET+Lahore;Aspiring+AI+Engineer+%26+Prompt+Engineering+Learner;Python+%7C+Java+%7C+C%2B%2B+%7C+Snap!;Soft+Skills+Advocate+%26+Passionate+Learner;Open+to+Internships+%26+Opportunities;Building+My+Path+in+the+AI+World" alt="Typing SVG" />
 
 </div>
 
