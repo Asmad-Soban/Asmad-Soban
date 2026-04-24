@@ -156,50 +156,34 @@ Asmad-Soban.say_hi()
 
 ## 🗺️ My Growth Roadmap
 
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════════╗
-║           🚀  ASMAD SOBAN — GROWTH ROADMAP 2025–2026            ║
-╠══════════════════════════════════════════════════════════════════╣
-║                                                                  ║
-║  ✅  PHASE 1 — FOUNDATION                        [COMPLETE ✓]   ║
-║      ✔  Python · Java · C++ · Snap! (Visual Programming)        ║
-║      ✔  Core CS Concepts at UET Lahore                          ║
-║      ✔  Git, GitHub & Professional Profile                       ║
-║                                                                  ║
-╠══════════════════════════════════════════════════════════════════╣
-║                                                                  ║
-║  🔄  PHASE 2 — AI & SKILLS EXPLORATION        [ACTIVE NOW ◉]   ║
-║      ◉  Prompt Engineering (Zero-Shot, Few-Shot, CoT)            ║
-║      ◉  Generative AI Concepts & LLM Architecture               ║
-║      ◉  Soft Skills: Communication, Leadership, EQ               ║
-║      ◉  Professional Branding & GitHub Presence                  ║
-║                                                                  ║
-╠══════════════════════════════════════════════════════════════════╣
-║                                                                  ║
-║  ⏳  PHASE 3 — BUILD & APPLY                    [COMING SOON]   ║
-║      ○  Advanced Prompting: RAG, Agents, Fine-tuning             ║
-║      ○  OpenAI / Anthropic / Gemini API Projects                 ║
-║      ○  First Open Source Contribution                           ║
-║      ○  Internship Application Season 🎯                         ║
-║                                                                  ║
-╠══════════════════════════════════════════════════════════════════╣
-║                                                                  ║
-║  🌟  PHASE 4 — IMPACT                         [FUTURE GOAL]     ║
-║      ○  Build AI Products That Solve Real Problems               ║
-║      ○  Mentor Students on AI & Career Development               ║
-║      ○  Represent Pakistan in the Global AI Community 🌍         ║
-║      ○  Full-Time AI Engineering Role 🚀                         ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
-<br/>
+### ✅ Phase 1 — Foundation `[COMPLETE]`
+- ✔️ Python · Java · C++ · Snap! (Visual Programming)
+- ✔️ Core CS Concepts at UET Lahore
+- ✔️ Git, GitHub & Professional Profile
 
 ---
+
+### 🔄 Phase 2 — AI & Skills Exploration `[ACTIVE NOW]`
+- ◉ Prompt Engineering (Zero-Shot, Few-Shot, CoT)
+- ◉ Generative AI Concepts & LLM Architecture
+- ◉ Soft Skills: Communication, Leadership, EQ
+- ◉ Professional Branding & GitHub Presence
+
+---
+
+### ⏳ Phase 3 — Build & Apply `[COMING SOON]`
+- ○ Advanced Prompting: RAG, Agents, Fine-tuning
+- ○ OpenAI / Anthropic / Gemini API Projects
+- ○ First Open Source Contribution
+- ○ Internship Application Season 🎯
+
+---
+
+### 🌟 Phase 4 — Impact `[FUTURE GOAL]`
+- ○ Build AI Products That Solve Real Problems
+- ○ Mentor Students on AI & Career Development
+- ○ Represent Pakistan in the Global AI Community 🌍
+- ○ Full-Time AI Engineering Role 🚀
 
 ## 🧠 Currently Mastering
 
