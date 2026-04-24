@@ -35,67 +35,29 @@
 
 ## 👨‍💻 About Me
 
-```python
-#!/usr/bin/env python3
-# ════════════════════════════════════════════════════════════
-#   profile.py  |  Asmad Soban  |  UET Lahore  🇵🇰
-# ════════════════════════════════════════════════════════════
+<table>
+<tr>
+<td valign="top" width="60%">
 
-class Asmad-Soban:
-    """
-    BS Computer Engineering Student @ UET Lahore.
-    On a mission to master AI, one prompt at a time.
-    """
+### Hi, I'm Asmad Soban!
+> BS Computer Engineering Student at **UET Lahore** — one of Pakistan's top engineering universities.
 
-    # ── Identity ────────────────────────────────────────────
-    name         = "Asmad Soban"
-    degree       = "BS Computer Engineering"
-    university   = "UET Lahore (University of Engineering & Technology)"
-    location     = "Lahore, Pakistan 🇵🇰"
-    status       = "Student → Aspiring AI Engineer"
+I am an aspiring AI Engineer passionate about **Prompt Engineering**, **Generative AI**, and becoming a well-rounded tech professional through strong **Soft Skills**.
 
-    # ── Technical Skills ─────────────────────────────────────
-    languages    = {
-        "intermediate" : ["Python 🐍", "Java ☕", "C++ ⚡", "Snap! 🧩"],
-        "learning"     : ["Prompt Engineering 🧠", "AI APIs 🤖"],
-    }
+**Quick Facts:**
+- 🎓 Studying @ UET Lahore, Lahore, Pakistan
+- 💻 Languages: Python · Java · C++ · Snap!
+- 🤖 Learning: Prompt Engineering & Generative AI
+- 🌱 Currently building my GitHub presence
+- 💼 Open to Internships & Collaborations
+- 🎯 Goal: World-class AI Engineer from Pakistan
 
-    # ── Passions ─────────────────────────────────────────────
-    interests    = [
-        "Generative AI & Large Language Models",
-        "Prompt Engineering & AI Communication",
-        "Soft Skills & Professional Development",
-        "Building Real-World Projects",
-    ]
-
-    # ── Goals ────────────────────────────────────────────────
-    short_term   = "Land a meaningful internship in AI / Software Dev"
-    long_term    = "Become a world-class AI Engineer from Pakistan 🌍"
-    superpower   = "I turn curiosity into code, and ideas into impact 💡"
-
-    @staticmethod
-    def open_to():
-        return [
-            "✅ Internships",
-            "✅ Collaborations",
-            "✅ Open Source Contributions",
-            "✅ Learning Opportunities",
-        ]
-
-    @staticmethod
-    def say_hi():
-        print("━" * 52)
-        print("  Thanks for visiting my profile, friend!")
-        print("  Let's connect, learn, and build together. 🚀")
-        print("  The AI era is here — let's be part of it! 🌟")
-        print("━" * 52)
-
-Asmad-Soban.say_hi()
-```
-
-<br/>
-
----
+</td>
+<td valign="top" width="40%">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+</td>
+</tr>
+</table>
 
 ## 🛠️ Tech Stack
 
