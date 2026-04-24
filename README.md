@@ -167,17 +167,6 @@ I am an aspiring AI Engineer passionate about **Prompt Engineering**, **Generati
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Asmad-Soban&theme=tokyonight&no-frame=true&column=4&margin-w=12&margin-h=12" />
-
-</div>
-
-<br/>
-
----
 
 ## 💡 Quote That Drives Me
 
