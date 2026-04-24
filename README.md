@@ -229,6 +229,6 @@ I am an aspiring AI Engineer passionate about **Prompt Engineering**, **Generati
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:03001C,30:0B0C2A,60:1B1464,90:2E0854,100:03001C&height=140&section=footer&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:03001C,20:0B0C2A,40:1B1464,60:4A0E8F,80:2E0854,100:03001C&height=200&section=footer&text=Thanks%20for%20Visiting!&fontSize=38&fontColor=E8D5FF&fontAlignY=55&desc=Let%27s%20connect%20%E2%80%94%20the%20future%20belongs%20to%20those%20who%20dare%20to%20build%20it&descSize=14&descAlignY=75&descColor=B8A9E0&animation=fadeIn" />
 
 </div>
