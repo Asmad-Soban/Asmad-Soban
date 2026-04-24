@@ -1,6 +1,6 @@
 <!-- ╔══════════════════════════════════════════════════════════════════╗ -->
 <!-- ║        GITHUB PROFILE README — Asmad Soban                      ║ -->
-<!-- ║  🔴 REPLACE: "AsmadSoban"     → your exact GitHub username      ║ -->
+<!-- ║  🔴 REPLACE: "Asmad-Soban"     → your exact GitHub username      ║ -->
 <!-- ║  🔴 REPLACE: LinkedIn URL     → your LinkedIn profile link       ║ -->
 <!-- ║  🔴 REPLACE: Email address    → your real email                  ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════════╝ -->
@@ -21,11 +21,11 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=AsmadSoban&color=9D4EDD&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Asmad-Soban&color=9D4EDD&style=for-the-badge&label=PROFILE+VIEWS)
 &nbsp;&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/AsmadSoban?style=for-the-badge&logo=github&color=9D4EDD&labelColor=1a1a2e&label=FOLLOWERS)](https://github.com/AsmadSoban)
+[![GitHub followers](https://img.shields.io/github/followers/Asmad-Soban?style=for-the-badge&logo=github&color=9D4EDD&labelColor=1a1a2e&label=FOLLOWERS)](https://github.com/Asmad-Soban)
 &nbsp;&nbsp;
-[![GitHub Stars](https://img.shields.io/github/stars/AsmadSoban?style=for-the-badge&logo=github&color=9D4EDD&labelColor=1a1a2e&label=STARS)](https://github.com/AsmadSoban)
+[![GitHub Stars](https://img.shields.io/github/stars/Asmad-Soban?style=for-the-badge&logo=github&color=9D4EDD&labelColor=1a1a2e&label=STARS)](https://github.com/Asmad-Soban)
 
 </div>
 
@@ -41,7 +41,7 @@
 #   profile.py  |  Asmad Soban  |  UET Lahore  🇵🇰
 # ════════════════════════════════════════════════════════════
 
-class AsmadSoban:
+class Asmad-Soban:
     """
     BS Computer Engineering Student @ UET Lahore.
     On a mission to master AI, one prompt at a time.
@@ -90,7 +90,7 @@ class AsmadSoban:
         print("  The AI era is here — let's be part of it! 🌟")
         print("━" * 52)
 
-AsmadSoban.say_hi()
+Asmad-Soban.say_hi()
 ```
 
 <br/>
@@ -132,21 +132,21 @@ AsmadSoban.say_hi()
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AsmadSoban&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true&include_all_commits=true&title_color=9D4EDD&icon_color=C77DFF&text_color=E8D5FF&bg_color=0d0221" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Asmad-Soban&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true&include_all_commits=true&title_color=9D4EDD&icon_color=C77DFF&text_color=E8D5FF&bg_color=0d0221" height="180"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsmadSoban&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&title_color=9D4EDD&text_color=E8D5FF&bg_color=0d0221&langs_count=6" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asmad-Soban&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&title_color=9D4EDD&text_color=E8D5FF&bg_color=0d0221&langs_count=6" height="180"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AsmadSoban&theme=tokyonight&hide_border=true&border_radius=12&ring=9D4EDD&fire=C77DFF&currStreakLabel=9D4EDD&sideLabels=9D4EDD&background=0d0221&stroke=9D4EDD" width="70%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Asmad-Soban&theme=tokyonight&hide_border=true&border_radius=12&ring=9D4EDD&fire=C77DFF&currStreakLabel=9D4EDD&sideLabels=9D4EDD&background=0d0221&stroke=9D4EDD" width="70%"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AsmadSoban&theme=tokyo-night&hide_border=true&radius=8&area=true&area_color=9D4EDD&line=9D4EDD&point=C77DFF&bg_color=0d0221" width="96%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Asmad-Soban&theme=tokyo-night&hide_border=true&radius=8&area=true&area_color=9D4EDD&line=9D4EDD&point=C77DFF&bg_color=0d0221" width="96%"/>
 
 </div>
 
@@ -225,7 +225,7 @@ AsmadSoban.say_hi()
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=AsmadSoban&theme=tokyonight&no-frame=true&column=4&margin-w=12&margin-h=12" />
+<img src="https://github-profile-trophy.vercel.app/?username=Asmad-Soban&theme=tokyonight&no-frame=true&column=4&margin-w=12&margin-h=12" />
 
 </div>
 
@@ -259,11 +259,11 @@ AsmadSoban.say_hi()
 &nbsp;&nbsp;
 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Asmad-Soban)
-<!-- 🔴 REPLACE: AsmadSoban → your GitHub username -->
+<!-- 🔴 REPLACE: Asmad-Soban → your GitHub username -->
 
 &nbsp;&nbsp;
 
-[![Email](https://img.shields.io/badge/Gmail-Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asmadsoban.mark1072@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Asmad-Soban.mark1072@gmail.com)
 <!-- 🔴 REPLACE: YOUR-EMAIL@gmail.com → your real email -->
 
 </div>
