@@ -118,48 +118,58 @@ I am an aspiring AI Engineer passionate about **Prompt Engineering**, **Generati
 
 ## 🗺️ My Growth Roadmap
 
-### ✅ Phase 1 — Foundation `[COMPLETE]`
-- ✔️ Python · Java · C++ · Snap! (Visual Programming)
-- ✔️ Core CS Concepts at UET Lahore
-- ✔️ Git, GitHub & Professional Profile
-
----
-
-### 🔄 Phase 2 — AI & Skills Exploration `[ACTIVE NOW]`
-- ◉ Prompt Engineering (Zero-Shot, Few-Shot, CoT)
-- ◉ Generative AI Concepts & LLM Architecture
-- ◉ Soft Skills: Communication, Leadership, EQ
-- ◉ Professional Branding & GitHub Presence
-
----
-
-### ⏳ Phase 3 — Build & Apply `[COMING SOON]`
-- ○ Advanced Prompting: RAG, Agents, Fine-tuning
-- ○ OpenAI / Anthropic / Gemini API Projects
-- ○ First Open Source Contribution
-- ○ Internship Application Season 🎯
-
----
-
-### 🌟 Phase 4 — Impact `[FUTURE GOAL]`
-- ○ Build AI Products That Solve Real Problems
-- ○ Mentor Students on AI & Career Development
-- ○ Represent Pakistan in the Global AI Community 🌍
-- ○ Full-Time AI Engineering Role 🚀
-
-## 🧠 Currently Mastering
-
 <div align="center">
 
-|  🤖 Prompt Engineering  |  🔮 Generative AI  |  💬 Soft Skills  |
-|:---|:---|:---|
-| ◉ Zero-Shot Prompting | ◉ LLM Fundamentals | ◉ Effective Communication |
-| ◉ Few-Shot Prompting | ◉ Transformer Architecture | ◉ Critical Thinking |
-| ◉ Chain-of-Thought | ○ Diffusion Models | ◉ Emotional Intelligence |
-| ○ Prompt Optimization | ○ RAG Systems | ○ Public Speaking |
-| ○ AI Agent Design | ○ AI Ethics & Safety | ○ Leadership & Teamwork |
-
-*◉ Active &nbsp;·&nbsp; ○ Upcoming*
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/PHASE%201-COMPLETE-2d6a4f?style=for-the-badge&labelColor=1b4332" />
+<br/><br/>
+<img src="https://img.shields.io/badge/✔%20Python-%231b4332?style=flat-square&color=2d6a4f" />
+<img src="https://img.shields.io/badge/✔%20Java-%231b4332?style=flat-square&color=2d6a4f" />
+<img src="https://img.shields.io/badge/✔%20C++-%231b4332?style=flat-square&color=2d6a4f" />
+<img src="https://img.shields.io/badge/✔%20Snap!-%231b4332?style=flat-square&color=2d6a4f" />
+<img src="https://img.shields.io/badge/✔%20Git%20%26%20GitHub-%231b4332?style=flat-square&color=2d6a4f" />
+<img src="https://img.shields.io/badge/✔%20UET%20CS%20Concepts-%231b4332?style=flat-square&color=2d6a4f" />
+<img src="https://img.shields.io/badge/✔%20GitHub%20Profile-%231b4332?style=flat-square&color=2d6a4f" />
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/PHASE%202-ACTIVE%20NOW-5c4b8a?style=for-the-badge&labelColor=3b1f6b" />
+<br/><br/>
+<img src="https://img.shields.io/badge/◉%20Prompt%20Engineering-5c4b8a?style=flat-square" />
+<img src="https://img.shields.io/badge/◉%20Generative%20AI-5c4b8a?style=flat-square" />
+<img src="https://img.shields.io/badge/◉%20LLM%20Architecture-5c4b8a?style=flat-square" />
+<img src="https://img.shields.io/badge/◉%20Soft%20Skills-5c4b8a?style=flat-square" />
+<img src="https://img.shields.io/badge/◉%20Communication-5c4b8a?style=flat-square" />
+<img src="https://img.shields.io/badge/◉%20GitHub%20Branding-5c4b8a?style=flat-square" />
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/PHASE%203-COMING%20SOON-2c5f8a?style=for-the-badge&labelColor=1a3a5c" />
+<br/><br/>
+<img src="https://img.shields.io/badge/○%20RAG%20Systems-2c5f8a?style=flat-square" />
+<img src="https://img.shields.io/badge/○%20AI%20Agents-2c5f8a?style=flat-square" />
+<img src="https://img.shields.io/badge/○%20OpenAI%20API-2c5f8a?style=flat-square" />
+<img src="https://img.shields.io/badge/○%20Anthropic%20API-2c5f8a?style=flat-square" />
+<img src="https://img.shields.io/badge/○%20Open%20Source-2c5f8a?style=flat-square" />
+<img src="https://img.shields.io/badge/○%20Internship%20Hunt-2c5f8a?style=flat-square" />
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/PHASE%204-FUTURE%20GOAL-7a4f2d?style=for-the-badge&labelColor=4a2f1a" />
+<br/><br/>
+<img src="https://img.shields.io/badge/○%20AI%20Products-7a4f2d?style=flat-square" />
+<img src="https://img.shields.io/badge/○%20Mentor%20Students-7a4f2d?style=flat-square" />
+<img src="https://img.shields.io/badge/○%20Global%20AI%20Community-7a4f2d?style=flat-square" />
+<img src="https://img.shields.io/badge/○%20Pakistan%20to%20World-7a4f2d?style=flat-square" />
+<img src="https://img.shields.io/badge/○%20AI%20Engineering%20Role-7a4f2d?style=flat-square" />
+</td>
+</tr>
+<tr>
+<td align="center"><sub>✅ Foundation</sub></td>
+<td align="center"><sub>🔄 Exploring</sub></td>
+<td align="center"><sub>⏳ Building</sub></td>
+<td align="center"><sub>🌟 Impact</sub></td>
+</tr>
+</table>
 
 </div>
 
@@ -167,6 +177,58 @@ I am an aspiring AI Engineer passionate about **Prompt Engineering**, **Generati
 
 ---
 
+## 🧠 Currently Mastering
+
+<div align="center">
+
+<table>
+<tr>
+<th align="center">
+<img src="https://img.shields.io/badge/🤖%20Prompt%20Engineering-3b1f6b?style=for-the-badge" />
+</th>
+<th align="center">
+<img src="https://img.shields.io/badge/🔮%20Generative%20AI-1a3a5c?style=for-the-badge" />
+</th>
+<th align="center">
+<img src="https://img.shields.io/badge/💬%20Soft%20Skills-1b4332?style=for-the-badge" />
+</th>
+</tr>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/◉%20Zero--Shot%20Prompting-5c4b8a?style=flat-square" /><br/>
+<img src="https://img.shields.io/badge/◉%20Few--Shot%20Prompting-5c4b8a?style=flat-square" /><br/>
+<img src="https://img.shields.io/badge/◉%20Chain--of--Thought-5c4b8a?style=flat-square" /><br/>
+<img src="https://img.shields.io/badge/○%20Prompt%20Optimization-4a3d6b?style=flat-square" /><br/>
+<img src="https://img.shields.io/badge/○%20AI%20Agent%20Design-4a3d6b?style=flat-square" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/◉%20LLM%20Fundamentals-2c5f8a?style=flat-square" /><br/>
+<img src="https://img.shields.io/badge/◉%20Transformer%20Architecture-2c5f8a?style=flat-square" /><br/>
+<img src="https://img.shields.io/badge/○%20Diffusion%20Models-1e4a70?style=flat-square" /><br/>
+<img src="https://img.shields.io/badge/○%20RAG%20Systems-1e4a70?style=flat-square" /><br/>
+<img src="https://img.shields.io/badge/○%20AI%20Ethics%20%26%20Safety-1e4a70?style=flat-square" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/◉%20Effective%20Communication-2d6a4f?style=flat-square" /><br/>
+<img src="https://img.shields.io/badge/◉%20Critical%20Thinking-2d6a4f?style=flat-square" /><br/>
+<img src="https://img.shields.io/badge/◉%20Emotional%20Intelligence-2d6a4f?style=flat-square" /><br/>
+<img src="https://img.shields.io/badge/○%20Public%20Speaking-1f5c3a?style=flat-square" /><br/>
+<img src="https://img.shields.io/badge/○%20Leadership%20%26%20Teamwork-1f5c3a?style=flat-square" />
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://img.shields.io/badge/◉-Currently%20Active-5c4b8a?style=flat-square" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/○-Coming%20Soon-3a3a5a?style=flat-square" />
+
+</div>
+
+<br/>
+
+---
 
 ## 💡 Quote That Drives Me
 
